@@ -1,2 +1,2 @@
-# PROJECT-2
-basic website on TATA grorup
+# TATA MOTORS
+Basic landing page of TATA  Motors built while learning frontend using HTML/CSS.
